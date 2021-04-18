@@ -16,9 +16,9 @@ https://en.wikipedia.org/wiki/Regular_expression)
 | MD6 |||
 | *MD5*|||
 | SHA256, Bitcoin, ... |||
-| **convert** | pattern | **replace** |
+| **Convert** | pattern | **replace** |
 MarkDown links to HTML links |`\[([^\]]*)\]\(([^\)]*)\)`|`<a href="$2">$1</a>`|
-`List of Patterns` 2 Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$2");`|
+`List of Patterns` 2 Javascript |\\\|\`([^\`]\*)\`\\\|\`([^\`]\*)\`\\\||`replace ($1,"$2");`|
 Javascript 2 Python | _..(..)..(..)..(..)..(..).._|_$9$7$2$8$4$3_|
 
 _*matching typos too, as long as that's still unique / unique enough_
