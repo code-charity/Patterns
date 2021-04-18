@@ -34,9 +34,11 @@ A List of Patterns / Regex can automatically be analyzed for similarities and th
 
 ### 2. Contextual & Semantic patterns 
 #### word-lists, topics, frequencies, thesaurus, antonyms,  semantic dictionaries, psychologic & sentiment dictionaries
-#### Google: 
-~synonyms a|b AROUND(3) c|d  -e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z    https://ahrefs.com/blog/google-advanced-search-operators/
-#### Human Grammar & Natural language processing:  
+wordnet, framenet, google ngrams, google trends, ....
+#### Google Search: 
+~synonyms a|b AROUND(3) c|d  -e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z    
+https://ahrefs.com/blog/google-advanced-search-operators/
+#### Human Grammar & Natural language processing (NLP):  
 https://github.com/edobashira/speech-language-processing#readme
 
 ### 3. Structured Data. Querying Public Databases & the internet. SPARQL, SQL, NoSQL
@@ -44,7 +46,7 @@ https://github.com/edobashira/speech-language-processing#readme
 #### WikiData
 #### AWS public databases
 
-### 4. Merging the above disciplines 1.-3.      
+### 4. Merging the above "1.-3."      
 ### // Human work VS machine learning modells
 
 ----
