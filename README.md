@@ -31,22 +31,20 @@ I.e. Preprocessing might Reduce Input data by 90% already in half the time.
 ## 1.2 Automatic pattern generation
 
 ## 2. Contextual & Semantic patterns :
-#### word-lists and semantic dictionarieis
-#### Google: ~synonyms a|b AROUND(3) c|d  -e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z
-#### Human Grammar & Natural language processing. 
+#### word-lists, topics, frequencies, thesaurus, antonyms,  semantic dictionaries, psychologic & sentiment dictionaries
+#### Google: 
+~synonyms a|b AROUND(3) c|d  -e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z    https://ahrefs.com/blog/google-advanced-search-operators/
+#### Human Grammar & Natural language processing:  
 https://github.com/edobashira/speech-language-processing#readme
 
 ### 3. Structured Data. Querying Public Databases & the internet. SPARQL, SQL, NoSQL
-
 #### Semantic web:
 #### WikiData:
 #### AWS public databases:
 
 ### 4. Merging the above disciplines 1.-3.      
-
 ### // Human work VS machine learning modells
 
-----
 ----
 
 # All-Regex
