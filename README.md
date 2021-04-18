@@ -1,7 +1,7 @@
 `thinking regularly, thinking universally, thinking mathematically`
 
 # List of Patterns 🎇 'Pattern-Collector'      
-The* ['Awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
+The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
 \*_(there seems to be no other repo yet! So Please edit this draft  widly 🎉 (Spreadsheet & Readme)_ 
 
 ### 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
