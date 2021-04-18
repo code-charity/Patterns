@@ -45,4 +45,4 @@ https://github.com/edobashira/speech-language-processing#readme
 
 # All-Regex
 #### Others Lists  // potential Sources: 
-#### Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>15000 enterprise patterns...)
+#### Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise patterns')
