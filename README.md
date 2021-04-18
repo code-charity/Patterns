@@ -1,11 +1,11 @@
-# List of Patterns / 'Pattern-Collector'       >>Please edit this draft widly :)<<  
-The* ['Awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        \* _(there seems to be no other repo yet!)_
+# List of Patterns / 'Pattern-Collector'      
+The* ['Awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
+\*_(there seems to be no other repo yet!)_ **Please edit this draft widly :)**  
 
- `>Think regularly, think universally, think mathematically<`
+`thinking regularly, thinking universally, thinking mathematically`
 
 ## 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
-Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. https://en.wikipedia.org/wiki/Regular_expression)
-
+Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. https://en.wikipedia.org/wiki/Regular_expression)   
 | Common Data Formats | efficient pattern (*raw with typos, if that's still unique*) | *replace* (*correction*) |
 | --: | :-: | :--|  
 |Postalcodes |||
@@ -31,17 +31,18 @@ I.e. Preprocessing might Reduce Input data by 90% already in half the time.
 ## 1.2 Automatic pattern generation
 
 ## 2. Contextual & Semantic patterns :
-### Human Grammar / Natural language processing. 
+#### word-lists and semantic dictionarieis
+#### Google: ~synonyms a|b AROUND(3) c|d  -e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z
+#### Human Grammar & Natural language processing. 
 https://github.com/edobashira/speech-language-processing#readme
 
 ### 3. Structured Data. Querying Public Databases & the internet. SPARQL, SQL, NoSQL
 
-#### Semantic web
-#### WikiData
-#### Google 
-#### AWS public databases
+#### Semantic web:
+#### WikiData:
+#### AWS public databases:
 
-### 4. Merging the above disciplines      
+### 4. Merging the above disciplines 1.-3.      
 
 ### // Human work VS machine learning modells
 
