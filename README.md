@@ -1,4 +1,4 @@
-`thinking regularly, thinking universally, thinking mathematically`
+#### `thinking regularly, thinking universally, thinking mathematically`
 
 # List of Patterns 🎇 'Pattern-Collector'      
 The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
