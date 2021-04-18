@@ -24,25 +24,30 @@ List of Patterns to Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$
 
 [Full List of 1000's](https://github.com/code4charity/List-of-Patterns--Regex-Collector--Query-Collector/edit/main/README.md#All-Regex
 
-## 2. Preprocessing Patterns: 
+## 1.1 Preprocessing Patterns: 
 A List of Patterns / Regex can automatically be analyzed for similarities and thus be combined in a preprocessing step. 
 I.e. Preprocessing might Reduce Input data by 90% already in half the time. 
 
-## 3. Semantic patterns:
+## 1.2 Automatic pattern generation
+
+## 2. Contextual & Semantic patterns :
 ### Human Grammar / Natural language processing. 
 https://github.com/edobashira/speech-language-processing#readme
 
-## 4. Querying Public Databases & the internet.
+### 3. Structured Data. Querying Public Databases & the internet. SPARQL, SQL, NoSQL
 
 #### Semantic web
 #### WikiData
 #### Google 
 #### AWS public databases
 
-## 5. Merging the above disciplines    
+### 4. Merging the above disciplines      
 
-## 6. Human work VS machine learning
+### // Human work VS machine learning modells
+
+----
+----
 
 # All-Regex
 #### Others Lists  // potential Sources: 
-#### Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise patterns')
+#### Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise converts')
