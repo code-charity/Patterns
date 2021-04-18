@@ -4,7 +4,7 @@ The* ['Awesome List'](https://github.com/sindresorhus/awesome#contents) of Patte
 
 `thinking regularly, thinking universally, thinking mathematically`
 
-## 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
+### 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
 Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. https://en.wikipedia.org/wiki/Regular_expression)   
 | Common Data Formats | efficient pattern (*raw with typos, if that's still unique*) | *replace* (*correction*) |
 | --: | :-: | :--|  
@@ -24,13 +24,13 @@ List of Patterns to Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$
 
 [Full List of 1000's](https://github.com/code4charity/List-of-Patterns--Regex-Collector--Query-Collector/edit/main/README.md#All-Regex
 
-## 1.1 Preprocessing Patterns: 
+### 1.1 Preprocessing Patterns: 
 A List of Patterns / Regex can automatically be analyzed for similarities and thus be combined in a preprocessing step. 
 I.e. Preprocessing might Reduce Input data by 90% already in half the time. 
 
-## 1.2 Automatic pattern generation
+### 1.2 Automatic pattern generation
 
-## 2. Contextual & Semantic patterns :
+### 2. Contextual & Semantic patterns 
 #### word-lists, topics, frequencies, thesaurus, antonyms,  semantic dictionaries, psychologic & sentiment dictionaries
 #### Google: 
 ~synonyms a|b AROUND(3) c|d  -e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z    https://ahrefs.com/blog/google-advanced-search-operators/
@@ -38,16 +38,16 @@ I.e. Preprocessing might Reduce Input data by 90% already in half the time.
 https://github.com/edobashira/speech-language-processing#readme
 
 ### 3. Structured Data. Querying Public Databases & the internet. SPARQL, SQL, NoSQL
-#### Semantic web:
-#### WikiData:
-#### AWS public databases:
+#### Semantic web
+#### WikiData
+#### AWS public databases
 
 ### 4. Merging the above disciplines 1.-3.      
 ### // Human work VS machine learning modells
 
 ----
 
-# All-Regex
+## All-Regex
 - Others Lists  // potential Sources: 
 - Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise converts')
 
