@@ -4,9 +4,7 @@
 The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
 \*_(there seems to be no other repo yet! So Please edit this draft  wildy 🎉 (Spreadsheet & Readme))_ 
 
-Expressions make bite-sized tools & co-work 🍿🤏😎 
-Searching this list you pre-define the scope of your goal, and thus you will more be more efficient
-than searching for NPMs (Node.js packages) or Stack Overflow Answers. (once this list is filled well)
+Patterns make bite-sized tools & co-work 🍿🤏😎 - Searching this list (,once it is well filled,) you did already pre-define the specific scope of your goal, copy pasting this specific portion of thought and thus you will more be more efficient than searching / deciding for NPMs (Node.js packages) or Stack Overflow Answers too. Just like a tweet has a higher density per word than an article.
 
 ## 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
 Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. 
