@@ -2,7 +2,7 @@
 
 # List of Patterns 🎇 'Pattern-Collector'      
 The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
-\*_(there seems to be no other repo yet! So Please edit this draft  widly 🎉 (Spreadsheet & Readme)_ 
+\*_(there seems to be no other repo yet! So Please edit this draft  widly 🎉 (Spreadsheet & Readme))_ 
 
 ## 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
 Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. 
