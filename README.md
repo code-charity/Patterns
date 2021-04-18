@@ -2,7 +2,7 @@
 
 # List of Patterns 🎇 'Pattern-Collector'      
 The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
-\*_(there seems to be no other repo yet! So Please edit this draft  widly 🎉 (Spreadsheet & Readme))_ 
+\*_(there seems to be no other repo yet! So Please edit this draft  wildy 🎉 (Spreadsheet & Readme))_ 
 
 Expressions make bite-sized tools & co-work 🍿🤏😎 
 Searching this list you pre-define the scope of your goal, and thus you will more be more efficient
