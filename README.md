@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Regular_expression)
 | convert | pattern | replace |
 | --: | :-: | :--|  
 MarkDown links to HTML links |`\[([^\]]*)\]\(([^\)]*)\)`|`<a href="$2">$1</a>`|
-[`List of Patterns`](https://github.com/code4charity/List-of-Patterns--Regex-Collector--Query-Collector/README.md#All-Regex) 2 Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$2");`|
+`List of Patterns` 2 Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$2");`|
 Javascript 2 Python |..(..)..(..)...(..)..(..)..|$9$7$2$8$4$3|
 
 | Common Data Formats | efficient pattern (*raw with typos, if that's still unique*) | *replace* (*correction*) |
@@ -25,7 +25,7 @@ Javascript 2 Python |..(..)..(..)...(..)..(..)..|$9$7$2$8$4$3|
 | *MD5*|||
 | SHA256, Bitcoin, ... |||
 
-[Full List of 1000's](https://github.com/code4charity/List-of-Patterns--Regex-Collector--Query-Collector/README.md#All-Regex)
+[**Full List of 1000s**](https://github.com/code4charity/List-of-Patterns--Regex-Collector--Query-Collector/README.md#All-Regex)
 
 ### 1.1 Pre-processing Patterns 
 A List of Patterns / Regex can automatically be analyzed for similarities and thus be combined in a preprocessing step. i.e. Preprocessing might Reduce Input data by 90% already in half the time. 
@@ -49,7 +49,7 @@ https://github.com/edobashira/speech-language-processing#readme
 
 ----
 
-## All-Regex
+## All Regex
 - Others Lists  // potential Sources: 
 - Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise converts')
 
