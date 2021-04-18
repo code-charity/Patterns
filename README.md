@@ -5,22 +5,24 @@ The* ['Awesome List'](https://github.com/sindresorhus/awesome#contents) of Patte
 `thinking regularly, thinking universally, thinking mathematically`
 
 ### 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
-Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. https://en.wikipedia.org/wiki/Regular_expression)   
+Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. 
+https://en.wikipedia.org/wiki/Regular_expression)   
+| convert | pattern | replace |
+| --: | :-: | :--|  
+MarkDown links to HTML links |`\[([^\]]*)\]\(([^\)]*)\)`|`<a href="$2">$1</a>`|
+List of Patterns to Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$2");`|
+
 | Common Data Formats | efficient pattern (*raw with typos, if that's still unique*) | *replace* (*correction*) |
 | --: | :-: | :--|  
-|Postalcodes |||
 |ISBN |||
+|Youtube Video ID |||
+|Postalcodes |||
 
 | Hashes, Public Keys, Signatures | pattern | *replace* |
 | --: | :-: | :--|  
 | MD6 |||
 | *MD5*|||
 | SHA256, Bitcoin, ... |||
-
-| convert | pattern | replace |
-| --: | :-: | :--|  
-MarkDown links to HTML links |`\[([^\]]*)\]\(([^\)]*)\)`|`<a href="$2">$1</a>`|
-List of Patterns to Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$2");`|
 
 [Full List of 1000's](https://github.com/code4charity/List-of-Patterns--Regex-Collector--Query-Collector/README.md#All-Regex)
 
@@ -52,10 +54,7 @@ https://github.com/edobashira/speech-language-processing#readme
 - Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise converts')
 
 | name | pattern | replace |
-| --: | :-: | :--| 
-| | | |
-| | | |
-| | | |
+| --: | :-: | :--| language
 | | | |
 | | | |
 | | | |
