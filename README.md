@@ -26,9 +26,8 @@ List of Patterns to Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$
 
 [Full List of 1000's](https://github.com/code4charity/List-of-Patterns--Regex-Collector--Query-Collector/README.md#All-Regex)
 
-### 1.1 Preprocessing Patterns: 
-A List of Patterns / Regex can automatically be analyzed for similarities and thus be combined in a preprocessing step. 
-I.e. Preprocessing might Reduce Input data by 90% already in half the time. 
+### 1.1 Pre-processing Patterns 
+A List of Patterns / Regex can automatically be analyzed for similarities and thus be combined in a preprocessing step. i.e. Preprocessing might Reduce Input data by 90% already in half the time. 
 
 ### 1.2 Automatic pattern generation
 
