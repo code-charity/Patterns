@@ -46,8 +46,8 @@ https://github.com/edobashira/speech-language-processing#readme
 #### WikiData
 #### AWS public databases
 
-## 4. Merging the above "1.-3."      
-## 5. Human work VS machine learning models
+## 4. Merging the above "1.-3."
+### vs 5. Human work VS machine learning models
 
 ----
 
