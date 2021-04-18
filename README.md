@@ -1,4 +1,4 @@
-#### `thinking regularly, thinking universally, thinking mathematically`
+##### `thinking regularly, thinking universally, thinking mathematically`
 
 # List of Patterns 🎇 'Pattern-Collector'      
 The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
@@ -9,7 +9,7 @@ Patterns make bite-sized tools/co-work 🍿🍒 - Searching this list (,once it 
 ## 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
 Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. 
 https://en.wikipedia.org/wiki/Regular_expression)   
-| Common Data Formats² | efficient pattern for raw data³| *replace / correction*) |
+| Common Data Formats² | efficient pattern (raw data³)| *replacement / correction*) |
 | --: | :-: | :--|  
 |ISBN |||
 |Youtube Video ID |||
