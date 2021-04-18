@@ -1,4 +1,4 @@
-# List of Patterns / 'Pattern-Collector'      
+# List of Patterns 🎇 'Pattern-Collector'      
 The* ['Awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
 \*_(there seems to be no other repo yet!)_ **Please edit this draft widly :)**  
 
