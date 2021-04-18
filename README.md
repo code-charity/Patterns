@@ -53,11 +53,11 @@ https://github.com/edobashira/speech-language-processing#readme
 - Others Lists  // potential Sources: 
 - Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise converts')
 
-| name | pattern | replace |
-| --: | :-: | :--| language
-| | | |
-| | | |
-| | | |
+| name | pattern | replace | language |
+| --: | :-: | :--|  --: |
+| | | | regex |
+| | | | google | 
+| | | | css |
 | | | |
 | | | |
 | | | |
