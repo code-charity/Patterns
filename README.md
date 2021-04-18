@@ -1,5 +1,5 @@
-# List of Patterns / 'Pattern-Collector' 
-The* ['Awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        \* _(there seems to be nothing better than this draft!)_
+# List of Patterns / 'Pattern-Collector'       >>Please edit this draft widly :)<<  
+The* ['Awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        \* _(there seems to be no other repo yet!)_
 
  `>Think regularly, think universally, think mathematically<`
 
