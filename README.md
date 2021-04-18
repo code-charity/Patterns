@@ -22,7 +22,7 @@ Regex are most common & most efficient to type. (Despite they are one of the old
 MarkDown links to HTML links |`\[([^\]]*)\]\(([^\)]*)\)`|`<a href="$2">$1</a>`|
 List of Patterns to Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$2");`|
 
-[Full List of 1000's](https://github.com/code4charity/List-of-Patterns--Regex-Collector--Query-Collector/edit/main/README.md#All-Regex
+[Full List of 1000's](https://github.com/code4charity/List-of-Patterns--Regex-Collector--Query-Collector/README.md#All-Regex)
 
 ### 1.1 Preprocessing Patterns: 
 A List of Patterns / Regex can automatically be analyzed for similarities and thus be combined in a preprocessing step. 
