@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Regular_expression)
 | convert | pattern | replace |
 | --: | :-: | :--|  
 MarkDown links to HTML links |`\[([^\]]*)\]\(([^\)]*)\)`|`<a href="$2">$1</a>`|
-List of Patterns to Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$2");`|
+`List of Patterns` 2 Javascript |\|\`([^\`]\*)\`\|\`([^\`]\*)\`\||`replace ($1,"$2");`|
 
 | Common Data Formats | efficient pattern (*raw with typos, if that's still unique*) | *replace* (*correction*) |
 | --: | :-: | :--|  
