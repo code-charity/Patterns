@@ -26,7 +26,7 @@ Javascript 2 Python | _..(..)..(..)..(..)..(..).._|_$9$7$2$8$4$3_|
 [**Full List of 1000s**](https://github.com/code4charity/The-Regex-Collector--Queries--Patterns/blob/main/README.md#all-regex)
 
 ## 1.1 Pre-processing Patterns 
-A List of Patterns / Regex can automatically be analyzed for similarities and thus be combined in a preprocessing step. i.e. Preprocessing might Reduce Input data by 90% already in half the time. 
+A List of Patterns / Regex can be analyzed for similarities and thus be combined in a preprocessing step. i.e. Preprocessing might Reduce Input data by 90% already in half the time. 
 
 ## 1.2 Automatic pattern generation
 
