@@ -1,10 +1,10 @@
-##### `thinking regularly, thinking universally, thinking mathematically`
+> ####  `thinking regularly, thinking universally, thinking mathematically`
 
 # List of Patterns 🎇 'Pattern-Collector'      
 The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
 \*_(there seems to be no other repo yet! So Please edit this draft  wildy 🎉 (Spreadsheet & Readme))_ 
 
-Patterns make bite-sized tools/co-work 🍿🍒 - Searching this list (,once it is well filled,) you did already pre-define the specific scope of your goal, copy pasting this specific portion of thought. Thus you will be more efficient than searching node.js NPM or Stack Overflow Answers. Just like a tweet has a higher density per word than an long article.
+Patterns make bite-sized tools/co-work 🍒🍿🤏 - Searching this list (,once it is well filled,) you did already pre-define the specific scope of your goal, copy pasting this specific portion of thought. Thus you will be more efficient than searching node.js NPM or Stack Overflow Answers. Just like a tweet has a higher density per word than an long article.
 
 ## 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
 Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. 
