@@ -49,13 +49,14 @@ https://github.com/edobashira/speech-language-processing#readme
 
 ----
 
-# All Regex  
+# All Patterns  
 ## https://docs.google.com/spreadsheets/d/1EjeZ2RtNpM_mANdO1VPXmZmbIb5vANUXodPBFtdg3zU/edit
-- Others Lists  // potential Sources: ___ , ___ , ___ , ____ ,____ , ( not a list but 1 repo per regex: https://github.com/regexhq )
+- Others Lists  // potential Sources: ___ , ___ , ___ , ____ ,____ , ( not a list but 1 repo per regex: [https://github.com/regexhq](github/regexhq), takes clicks to see one: [regexhq/youtube-regex/index.js](https://github.com/regexhq/youtube-regex/blob/master/index.js))
+
 - Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise converts')
 
-| name | pattern | replace | language |
-| --: | :-: | :--|  --: |
+| Name | **pattern match** | replacement | language | _comment/justify_ | _raw³_ | _extra context/precision_ |
+| --: | :-: | :--|  --: |  --: |  --: |  --: |
 | | | | regex |
 | | | | google | 
 | | | | css |
