@@ -9,17 +9,17 @@ Patterns make bite-sized tools/co-work 🍒🍿🍟🤏 ( Searching such list (,
 ## 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
 Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. 
 https://en.wikipedia.org/wiki/Regular_expression)   
-| Common Data Formats² | (efficient) pattern (raw data³)| *replacement / correction*) |
-| --: | :-: | :--|  
+| Common Data Formats² | **pattern match** | replacement | _comment/justify_ | _raw³_ | _extra context/precision_ |
+| --: | :-: | :--| --: | --: | --: |
 |ISBN |||
-|Youtube Video ID |||
-| **Hashes, Public Keys, Signatures** | pattern | *replace* |
+|Youtube Video ID |`[^\w-]([\w-]{11})[^\w-]`| $1 | 11char base64 is almost unique| | `(?:https?://\|//)?(?:www\.\|m\.)?youtu/?be(?:\.com)?/(?:embed/\|v/\|watch\/?\?[&\w=]{,128}v=([\w-]{11})[^\w-]`| 
+| **Hashes, Public Keys, Signatures** | **pattern match** |  |
 | MD6 |||
 | SHA256, Bitcoin, ... |||
-| **Convert** | pattern | **replace** |
-MarkDown links to HTML links |`\[([^\]]*)\]\(([^\)]*)\)`|`<a href="$2">$1</a>`|
-`List of Patterns` 2 Javascript |\\\|\`([^\`]\*)\`\\\|\`([^\`]\*)\`\\\||`replace ($1,"$2");`|
-Javascript 2 Python | _..(..)..(..)..(..)..(..).._|_$9$7$2$8$4$3_|
+| **Convert** | **pattern match** | **replacement** |
+|MarkDown links to HTML links | `\[([^\]]*)\]\(([^\)]*)\)`|`<a href="$2">$1</a>`|
+|**this table**2Javascript |\\|\`([^\`]\*)\`\\\|\`([^\`]\*)\`\\||`replaceAll(/$1/g, "$2").replaceAll("\\|","\|")`| 
+|Javascript 2 Python | _..(..)..(..)..(..)..(..).._|_$9$7$2$8$4$3_|
 
 *² date, postal code, formal greeting, formal __, ...* <br> _³ matching typos too, as long as that's still unique / unique enough_
 
@@ -51,7 +51,7 @@ https://github.com/edobashira/speech-language-processing#readme
 
 # All Regex  
 ### https://docs.google.com/spreadsheets/d/1EjeZ2RtNpM_mANdO1VPXmZmbIb5vANUXodPBFtdg3zU/edit
-- Others Lists  // potential Sources: 
+- Others Lists  // potential Sources: ___ , ___ , ___ , ____ ,____ , ( not a list but 1 repo per regex: https://github.com/regexhq )
 - Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise converts')
 
 | name | pattern | replace | language |
