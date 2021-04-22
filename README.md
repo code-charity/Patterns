@@ -55,7 +55,7 @@ https://github.com/edobashira/speech-language-processing#readme
 
 - Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise converts')
 
-| Name | **pattern match** | replacement | language | _comment/justify_ | _raw³_ | _extra context/precision_ |
+| Name | **pattern match** | replacement | language | comment/justify | raw³ | extra context/precision |
 | --: | :-: | :--|  --: |  --: |  --: |  --: |
 | | | | regex |
 | | | | google | 
