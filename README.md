@@ -1,10 +1,8 @@
 > ####  `thinking regularly, thinking universally, thinking mathematically`
 
-# List of Patterns 🎇 'Pattern-Collector'      
-The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
-\*_(there seems to be no other repo yet! So Please edit this draft  wildy 🎉 (Spreadsheet & Readme))_ 
-
-Patterns make bite-sized tools/co-work 🍒🍿🍟🤏 ( Searching such list (,once well filled,) you will already have pre-defined the specific regular scope of your goal (copying a specific pattern. That can be more efficient/versatile than searching Stack Overflow Answers or node.js NPM's. Just like a tweet has a higher density per word than an article.)
+# List of Patterns 🎇 'Pattern-Collector'   
+The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns         \*_(there seems to be no other repo yet!)_  
+Please edit this draft wildy 🎉 ( [Spreadsheet](https://docs.google.com/spreadsheets/d/1EjeZ2RtNpM_mANdO1VPXmZmbIb5vANUXodPBFtdg3zU/edit)  & [Readme](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data/edit/main/README.md) ) <br> Patterns make bite-sized tools/co-work 🍒🍿🍟🤏 ( Searching such list (,once well filled,) you will already have pre-defined the specific regular scope of your goal (copying a specific pattern. That can be more efficient/versatile than searching Stack Overflow Answers or node.js NPM's. Just like a tweet has a higher density per word than an article.)
 
 ## 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
 Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. 
