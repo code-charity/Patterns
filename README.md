@@ -20,7 +20,7 @@ Regex are versatile, because they work in most languages and editors and many ap
 |**this table**2Javascript |\\|\`([^\`]\*)\`\\\|\`([^\`]\*)\`\\||`replaceAll(/$1/g, "$2").replaceAll("\\|","\|")`| 
 |Javascript 2 Python | _..._|_$1$2$3_|
 
-*² date, postal code, formal greeting, formal __, ...* <br> _³extra context/precision/trying to match all possible typos too, as long as that's still unique/unique enough_
+*² date, postal code, formal greeting, formal __, ...* <br> _³extra: match typos too (common) and/or add precision ('no false positives' / perfectionism)_
 
 [**Full List of 1000s**](https://github.com/code4charity/The-Regex-Collector--Queries--Patterns/blob/main/README.md#all-regex)
 
