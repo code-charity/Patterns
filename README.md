@@ -8,14 +8,14 @@ Please edit this draft wildy 🎉 ( [Spreadsheet](https://docs.google.com/spread
 Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. https://en.wikipedia.org/wiki/Regular_expression)   
 Regex are versatile, because they work in most languages and editors and many apps.
  
-(| Common Data Formats² | **match** | replacement | _comment/justify_ | extra³_ |
+| Common Data Formats² | **match** | replacement | _comment/justify_ | extra³_ |
 | --: | :-: | :--| --: | --: |
 |ISBN ||
 |Youtube Video ID |`[^\w-]([\w-]{11})[^\w-]`| $1 | 11char base64 is almost unique| `(?:https?://\|//)?(?:www\.\|m\.)?youtu/?be(?:\.com)?/(?:embed/\|v/\|watch\/?\?[&\w=]{,128}v=([\w-]{11})[^\w-]`| 
-| **Hashes, Public Keys, Signatures** | **pattern match** |  
+| **Hashes, Public Keys, Signatures** | **match** |  
 | MD6 ||
 | SHA256, Bitcoin, ... ||
-| **Convert** | **pattern match** | **replacement** |
+| **Convert** | **match** | **replacement** |
 |MarkDown links to HTML links | `\[([^\]]*)\]\(([^\)]*)\)`|`<a href="$2">$1</a>`|
 |**this table**2Javascript |\\|\`([^\`]\*)\`\\\|\`([^\`]\*)\`\\||`replaceAll(/$1/g, "$2").replaceAll("\\|","\|")`| 
 |Javascript 2 Python | _..._|_$1$2$3_|
