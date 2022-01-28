@@ -27,7 +27,9 @@ Regex are versatile, because they work in most languages and editors and many ap
 ## 1.1 Pre-processing Patterns 
 A List of Patterns / Regex can be analyzed for similarities and thus be combined in a preprocessing step. i.e. Preprocessing might Reduce Input data by 90% already in half the time. 
 
-## 1.2 Automatic pattern generation
+## 1.2 Automatic pattern generation / AI
+
+Currently little of this is automated. Solutions such as Microsoft Power Automate for Desktop (Windows 11) want to change some of it.
 
 ## 2. Contextual & Semantic patterns 
 #### word-lists, topics, frequencies, thesaurus, antonyms,  semantic dictionaries, psychologic & sentiment dictionaries
