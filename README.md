@@ -22,14 +22,14 @@ Regex are versatile, because they work in most languages and editors and many ap
 
 *² date, postal code, formal greeting, formal __, ...* <br> _³extra: match typos too (common) and/or add precision ('no false positives' / perfectionism)_
 
-[**Full List of 1000s**](https://github.com/code4charity/The-Regex-Collector--Queries--Patterns/blob/main/README.md#all-regex)
+[**we could add 1000s**]
 
-## 1.1 Pre-processing Patterns 
-A List of Patterns / Regex can be analyzed for similarities and thus be combined in a preprocessing step. i.e. Preprocessing might Reduce Input data by 90% already in half the time. 
-
-## 1.2 Automatic pattern generation / AI
+## 1.1 Automatic pattern generation / AI
 
 Currently little of this is automated. Solutions such as Microsoft Power Automate for Desktop (Windows 11) want to change some of it.
+
+## 1.2 Pre-processing Patterns 
+A raw text / data source material - or a list or category of patterns - can sometimes be analyzed for similarities and thus be combined in one preprocessing step. i.e. Preprocessing might Reduce Input data by 90% already in a fraction of the time / CPU
 
 ## 2. Contextual & Semantic patterns 
 #### word-lists, topics, frequencies, thesaurus, antonyms,  semantic dictionaries, psychologic & sentiment dictionaries
