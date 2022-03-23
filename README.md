@@ -1,7 +1,7 @@
 > ####  `thinking regularly, thinking universally, thinking mathematically`
 
 # List of Patterns 🎇 'Pattern-Collector'   
-The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns         \*_(there seems to be no other repo yet!)_  
+The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns         \*_(this is thenonly repo of it's kind!)_  
 Please edit this draft wildy 🎉 ( [Spreadsheet](https://docs.google.com/spreadsheets/d/1EjeZ2RtNpM_mANdO1VPXmZmbIb5vANUXodPBFtdg3zU/edit)  & [Readme](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data/edit/main/README.md) ) 
 Please don't hesitate to add sublists for specific scientific fields such as DNA<br> Explanation: Patterns make bite-sized tools/co-work 🍒🍿🍟🤏 ( Searching such list (,once well filled,) you will already have mentally re-defined the specific, regular scope of your goal (the task of identifying specific data / matches). That can be more efficient and versatile than searching Stack Overflow Answers.  Or node.js NPM's (Instead of including a package you could often also copy&paste a regex).
 
